@@ -4,18 +4,19 @@
 ---
 
 ### 💡 About Me  
-🎓 I'm a **Computer Engineering graduate student at the University of Southern California (USC)**, focusing on **Embedded Systems, Wireless Communication, Networking, and Machine Learning**.  
-💻 Passionate about **firmware and hardware-software co-design**, I love building systems that bridge the physical and digital world — from smart wearables to networked embedded devices.  
+🎓 I'm a **Computer Engineering graduate student at USC**, focusing on **Software Development, Embedded Systems, Cloud Computing, Machine Learning, Computer Architecture, Wireless, and Networking.**
+💻 I’m passionate about building high-performance, real-time systems that bridge hardware and software, and I enjoy creating intelligent, cloud-connected embedded platforms.
 
 ---
 
-### ⚙️ Technical Interests  
-- 🧩 **Embedded Systems** – ARM Cortex, microcontrollers, real-time firmware, RTOS  
-- 📡 **Wireless Systems & Networking** – IEEE 802.15.4e TSCH, mesh synchronization, long-range IoT radios  
-- ☁️ **Internet & Cloud Computing** – scalable systems, secure client-server communication  
-- 🧠 **Machine Learning & AI** – on-chip ML, speech recognition on constrained devices  
-- 🧰 **Computer Architecture** – low-level systems, SoC design, optimization  
-- 💾 **Software Engineering** – socket programming, multi-server applications, distributed systems  
+### ⚙️ Technical Interests
+- 🧩 **Embedded Systems & Firmware** – ARM Cortex, RISC-V, microcontrollers, RTOS (Zephyr, FreeRTOS), board bring-up, drivers, hardware/software co-design  
+- ☁️ **Cloud & DevOps** – AWS, Azure, GCP, Linux, Python, Git, CI/CD, virtualization  
+- 🧠 **Machine Learning & AI** – on-chip ML, TensorFlow Lite, computer vision, speech recognition  
+- 🧰 **Software Engineering & Programming** – C, C++, MicroPython, MATLAB, Java, Verilog HDL, object-oriented programming, multi-server applications  
+- 📡 **Networking** – TCP/IP, OSI Layers 1-3, Ethernet, LAN/WAN, network design, routing & switching, troubleshooting  
+- 🏗️ **Computer Architecture & Hardware** – CPU/GPU/SoC design, verification, schematic/layout review, debugging, logic analyzers  
+
 
 ---
 
