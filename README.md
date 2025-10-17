@@ -21,12 +21,10 @@
 ---
 
 ### 🧠 Currently Exploring  
-- RTOS and Embedded Linux
-- Edge AI  
+- RTOS and Embedded Linux 
 - Cloud-embedded integration pipelines  
-- Autonomous systems (drones, robotics)  
-- High-performance networking and synchronization  
-
+- Autonomous systems (drones, robotics)
+- 
 ---
 
 ### 🛠️ Languages & Tools  
