@@ -24,7 +24,6 @@ I’m passionate about building high-performance, real-time systems that bridge 
 - RTOS and Embedded Linux 
 - Cloud-embedded integration pipelines  
 - Autonomous systems (drones, robotics)
-- 
 ---
 
 ### 🛠️ Languages & Tools  
