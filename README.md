@@ -50,7 +50,7 @@
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,verilog,arduino,linux,bash,git,docker,aws,gcp,vscode,raspberrypi&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vhdl,arduino,linux,bash,git,docker,aws,gcp,vscode,raspberrypi&perline=8" />
 </p>
 
 ---
