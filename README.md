@@ -21,7 +21,8 @@
 ---
 
 ### 🧠 Currently Exploring  
-- Neural network deployment on embedded platforms (Edge AI)  
+- RTOS and Embedded Linux
+- Edge AI  
 - Cloud-embedded integration pipelines  
 - Autonomous systems (drones, robotics)  
 - High-performance networking and synchronization  
