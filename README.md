@@ -31,16 +31,11 @@
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vhdl,arduino,linux,bash,git,docker,aws,gcp,vscode,raspberrypi&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,linux,bash,git,docker,aws,gcp,vscode,raspberrypi&perline=8" />
 </p>
 
 ---
 
 ### 📫 Let's Connect  
-- 🌐 [Portfolio / Projects](#) *(add link if you have one)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhignavkumar)  
-- 📧 abhigna.vkumar@usc.edu  
-
----
-
-⭐️ _“Building systems that think, sense, and communicate — from silicon to cloud.”_  
+- 📧 veerendr@usc.edu  
