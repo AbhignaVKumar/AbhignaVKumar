@@ -4,8 +4,8 @@
 ---
 
 ### 💡 About Me  
-🎓 I'm a **Computer Engineering graduate student at USC**, focusing on **Software Development, Embedded Systems, Cloud Computing, Machine Learning, Computer Architecture, Wireless, and Networking.**
-💻 I’m passionate about building high-performance, real-time systems that bridge hardware and software, and I enjoy creating intelligent, cloud-connected embedded platforms.
+I'm a **Computer Engineering graduate student at USC**, focusing on **Software Development, Embedded Systems, Cloud Computing, Machine Learning, Computer Architecture, Wireless, and Networking.**
+I’m passionate about building high-performance, real-time systems that bridge hardware and software, and I enjoy creating intelligent, cloud-connected embedded platforms.
 
 ---
 
