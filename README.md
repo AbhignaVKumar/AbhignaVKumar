@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Abhigna V Kumar</h1>
+<h1 align="center">Hi there 👋, I'm Abhigna Veerendra Kumar</h1>
 <h3 align="center">M.S. Computer Engineering @ USC | Embedded Systems • Firmware • Wireless • AI on Edge</h3>
 
 ---
