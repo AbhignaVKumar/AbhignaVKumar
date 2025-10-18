@@ -37,4 +37,4 @@ I’m passionate about building high-performance, real-time systems that bridge 
 ### 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhignavkumar)  
 - 📧 veerendr@usc.edu
-- 📧 abhignavk@usc.edu  
+- 📧 abhignavk@gmail.com  
